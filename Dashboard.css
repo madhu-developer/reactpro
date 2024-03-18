@@ -1,0 +1,32 @@
+.search-box{
+    padding:10px 8px;
+}
+
+.add-task-button{
+    background:#463dbc;
+    border-radius:8px;
+    border:none;
+    color:white;
+    padding:10px 8px;
+    margin:5px;
+}
+
+div div{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+li{
+    display:flex;
+    list-style-type:none;
+    align-items:center;
+}
+.delete-button{
+    background:red;
+    border-radius:8px;
+    border:none;
+    color:white;
+    padding:10px 8px;
+    margin:5px;
+}
